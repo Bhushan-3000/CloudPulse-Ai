@@ -83,11 +83,11 @@ Run application
 streamlit run app.py
 ```
 
-💡 Why This Project Matters
+## 💡 Why This Project Matters
 
 Cloud spending is one of the biggest challenges in modern cloud infrastructure.
 
-CloudPulse AI demonstrates:
+## CloudPulse AI demonstrates:
 
 Real-world FinOps engineering
 AWS cloud integration skills
@@ -95,20 +95,21 @@ Observability system design
 Cost optimization intelligence
 AI-assisted decision making
 
-🧠 Future Enhancements
+## 🧠 Future Enhancements
+
 🔥 ML-based cost anomaly detection
 📊 Multi-account AWS support
 🌐 Kubernetes monitoring integration
 📉 Advanced cost forecasting models
 🔐 IAM role-based secure deployment
-👨‍💻 Author
+
+## 👨‍💻 Author
 
 Bhushan Kumbhar
-
 Cloud & DevOps Engineer | FinOps & AWS Cloud Practitioner | Building Scalable Cloud Systems
 
 
 
-⭐ If You Like This Project
+## ⭐ If You Like This Project
 
 Give it a ⭐ on GitHub and connect with me for more cloud engineering projects.
