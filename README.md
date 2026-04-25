@@ -89,19 +89,19 @@ Cloud spending is one of the biggest challenges in modern cloud infrastructure.
 
 ## CloudPulse AI demonstrates:
 
-Real-world FinOps engineering
-AWS cloud integration skills
-Observability system design
-Cost optimization intelligence
-AI-assisted decision making
+-Real-world FinOps engineering
+-AWS cloud integration skills
+-Observability system design
+-Cost optimization intelligence
+-AI-assisted decision making
 
 ## 🧠 Future Enhancements
 
-🔥 ML-based cost anomaly detection
-📊 Multi-account AWS support
-🌐 Kubernetes monitoring integration
-📉 Advanced cost forecasting models
-🔐 IAM role-based secure deployment
+-🔥 ML-based cost anomaly detection
+-📊 Multi-account AWS support
+-🌐 Kubernetes monitoring integration
+-📉 Advanced cost forecasting models
+-🔐 IAM role-based secure deployment
 
 ## 👨‍💻 Author
 
