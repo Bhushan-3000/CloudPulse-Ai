@@ -68,15 +68,20 @@ To design a **cloud-native FinOps intelligence system** that provides real-time 
 ```bash
 git clone https://github.com/YOUR_USERNAME/CloudPulse-Ai.git
 cd CloudPulse-Ai
+```
 
 Install dependencies
+```bash
 pip install -r requirements.txt
-
+```
 Configure AWS
+```bash
 aws configure
-
+```
 Run application
+```bash
 streamlit run app.py
+```
 
 💡 Why This Project Matters
 
